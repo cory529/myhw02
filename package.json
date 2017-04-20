@@ -1,0 +1,20 @@
+{
+  "name": "godri",
+  "version": "1.0.0",
+  "description": "This is my practice.",
+  "main": "index.js",
+  "scripts": {
+  	"start":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cory529/practice.git"
+  },
+  "author": "Cory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cory529/practice/issues"
+  },
+  "homepage": "https://github.com/cory529/practice#readme"
+}
